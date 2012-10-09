@@ -587,7 +587,7 @@ form .hint_area {
 #main .page h1 span,
 #main .page2 h1 span{
 	background:url("main_heading_bg.png") no-repeat top left;
-	padding:15px 0px;
+	padding:0 0 5px 0px;
 	width:100%;
 	display:block;
 	font-weight:normal;
@@ -1283,7 +1283,7 @@ form .hint_area {
     margin: 1em 0.5em;
 }
 #frontpage .column li {
-    margin: 0.2em 0;
+    margin: 0 0 0.5em 0;
     padding: 0 0 0 18px;
 		border-bottom:1px dashed #000;
 }
